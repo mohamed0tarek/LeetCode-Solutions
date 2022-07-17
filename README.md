@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/language-Java%20-green.svg)
+![Language](https://img.shields.io/badge/language-Java%20-blue.svg)
 
 <p align="center">
     <img width="200" alt="LeetCode logo black" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
