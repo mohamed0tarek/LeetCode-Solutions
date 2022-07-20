@@ -17,5 +17,5 @@
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](Solutions/1342.java)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](Solutions/876.java)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](Solutions/383.java)|Easy|
-|--------------|-------------------------------------------------|-------------------|-------------|
+|--------------|------------------------------------------------|-------------------|-------------|
 
