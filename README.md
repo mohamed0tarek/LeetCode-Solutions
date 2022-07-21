@@ -18,6 +18,6 @@
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](Solutions/876.java)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](Solutions/383.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](Solutions/13.java)|Easy|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](Solutions/104.java)|Easy|/
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](Solutions/104.java)|Easy|
 |--------------|--------------------------------------------------|-----------|----------|
 
