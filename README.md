@@ -19,5 +19,6 @@
 |6.|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](Solutions/383.java)|Easy|
 |7.|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](Solutions/13.java)|Easy|
 |8.|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](Solutions/104.java)|Easy|
+|9.|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](Solutions/112.java)|Easy|
 |-----|--------------|--------------------------------------------------|-----------|----------|
 
