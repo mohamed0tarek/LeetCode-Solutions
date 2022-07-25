@@ -21,6 +21,6 @@
 |8.|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](Solutions/104.java)|Easy|
 |9.|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](Solutions/112.java)|Easy|
 |10.|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](Solutions/448.java)|Easy|
-|11.|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](Solutions/26.java)|Eassy|
+|11.|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](Solutions/26.java)|Easy|
 |-----|--------------|--------------------------------------------------|-----------|----------|
 
