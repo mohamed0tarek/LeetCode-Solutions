@@ -24,5 +24,6 @@
 |11.|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](Solutions/26.java)|Easy|
 |12.||[Contains Duplicate](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1112/)|[Solution](Solutions/Contains-Duplicate.java)|Easy|
 |13.||[Single Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1176/)|[Solution](Solutions/Single-Number.java)|Easy|
+|14.||[Intersection-of-Two-Arrays](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1105/)|[Solution](Solutions/Intersection-of-Two-Arrays.java)|Easy|
 |-----|--------------|--------------------------------------------------|-----------|----------|
 
