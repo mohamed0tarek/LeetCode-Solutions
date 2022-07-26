@@ -23,5 +23,6 @@
 |10.|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](Solutions/448.java)|Easy|
 |11.|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](Solutions/26.java)|Easy|
 |12.||[Contains Duplicate](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1112/)|[Solution](Solutions/Contains-Duplicate.java)|Easy|
+|13.||[Single Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1176/)|[Solution](Solutions/Single-Number.java)|Easy|
 |-----|--------------|--------------------------------------------------|-----------|----------|
 
