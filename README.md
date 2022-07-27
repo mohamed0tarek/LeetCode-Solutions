@@ -25,6 +25,6 @@
 |12.|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](Solutions/217.java)|Easy|
 |13.|136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](Solutions/136.java)|Easy|
 |14.|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](Solutions/349.java)|Easy|
-|15.||[Happy Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1131/)|[Solution](Solutions/Happy-Number.java)|Easy|
+|15.|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](Solutions/202.java)|Easy|
 |-----|-----------|--------------------------------------------------|-----------|----------|
 
