@@ -24,7 +24,7 @@
 |11.|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](Solutions/26.java)|Easy|
 |12.|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](Solutions/217.java)|Easy|
 |13.|136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](Solutions/136.java)|Easy|
-|14.||[Intersection of Two Arrays](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1105/)|[Solution](Solutions/Intersection-of-Two-Arrays.java)|Easy|
+|14.|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](Solutions/349.java)|Easy|
 |15.||[Happy Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1131/)|[Solution](Solutions/Happy-Number.java)|Easy|
 |-----|-----------|--------------------------------------------------|-----------|----------|
 
