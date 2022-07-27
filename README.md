@@ -22,7 +22,7 @@
 |9.|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](Solutions/112.java)|Easy|
 |10.|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](Solutions/448.java)|Easy|
 |11.|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](Solutions/26.java)|Easy|
-|12.||[Contains Duplicate](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1112/)|[Solution](Solutions/Contains-Duplicate.java)|Easy|
+|12.|[217]|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](Solutions/217.java)|Easy|
 |13.||[Single Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1176/)|[Solution](Solutions/Single-Number.java)|Easy|
 |14.||[Intersection of Two Arrays](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1105/)|[Solution](Solutions/Intersection-of-Two-Arrays.java)|Easy|
 |15.||[Happy Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1131/)|[Solution](Solutions/Happy-Number.java)|Easy|
