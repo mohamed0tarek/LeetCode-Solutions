@@ -26,5 +26,6 @@
 |13.|136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](Solutions/136.java)|Easy|
 |14.|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](Solutions/349.java)|Easy|
 |15.|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](Solutions/202.java)|Easy|
+|16.|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](Solutions/1.java)|Easy|
 |-----|-----------|--------------------------------------------------|-----------|----------|
 
