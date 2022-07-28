@@ -29,5 +29,6 @@
 |16.|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](Solutions/1.java)|Easy|
 |17.|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](Solutions/706.java)|Easy|
 |18.|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](Solutions/705.java)|Easy|
+|19.|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](Solutions/205.java)|Easy|
 |-----|-----------|--------------------------------------------------|-----------|----------|
 
