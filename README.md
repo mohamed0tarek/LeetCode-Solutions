@@ -31,5 +31,6 @@
 |18.|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](Solutions/705.java)|Easy|
 |19.|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](Solutions/205.java)|Easy|
 |20.|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Solution](Solutions/599.java)|Easy|
+|21.|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](Solutions/387.java)|Easy|
 |-----|-----------|--------------------------------------------------|-----------|----------|
 
