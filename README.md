@@ -11,6 +11,7 @@
 
 | Problem NO.  |      Title     |   Solutions   | Difficulty  |                  
 |---------------------------------------|------------------------------|----------------------------|---------------------------------|
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](Solutions/652.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](Solutions/49.java)|Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](Solutions/1480.java)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](Solutions/1672.java)|Easy|
