@@ -37,5 +37,6 @@
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](Solutions/387.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](Solutions/350.java)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Solution](Solutions/219.java)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](Solutions/771.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
