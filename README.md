@@ -38,5 +38,9 @@
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](Solutions/350.java)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Solution](Solutions/219.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](Solutions/771.java)|Easy|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](Solutions/485.java)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](Solutions/771.java)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](Solutions/771.java)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](Solutions/771.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
