@@ -42,6 +42,6 @@
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](Solutions/1295.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](Solutions/977.java)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](Solutions/1089.java)|Easy|
-|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](Solutions/1089.java)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](Solutions/88.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
