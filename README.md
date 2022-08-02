@@ -43,5 +43,6 @@
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](Solutions/977.java)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](Solutions/1089.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](Solutions/88.java)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](Solutions/27.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
