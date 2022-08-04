@@ -45,6 +45,6 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](Solutions/88.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](Solutions/27.java)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](Solutions/941.java)|Easy|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](Solutions/27.java)|Easy|
+|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](Solutions/1346.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
