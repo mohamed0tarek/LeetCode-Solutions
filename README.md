@@ -44,5 +44,7 @@
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](Solutions/1089.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](Solutions/88.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](Solutions/27.java)|Easy|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](Solutions/941.java)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](Solutions/27.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
