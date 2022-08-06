@@ -47,7 +47,7 @@
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](Solutions/941.java)|Easy|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](Solutions/1346.java)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Solution](Solutions/1299.java)|Easy|
-|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](Solutions/1346.java)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](Solutions/283.java)|Easy|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](Solutions/1346.java)|Easy|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](Solutions/1346.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
