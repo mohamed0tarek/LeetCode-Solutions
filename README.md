@@ -51,5 +51,8 @@
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](Solutions/905.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Solution](Solutions/1051.java)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](Solutions/414.java)|Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](Solutions/724.java)|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](Solutions/414.java)|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](Solutions/414.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
