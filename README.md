@@ -13,6 +13,7 @@
 |---------------------------------------|------------------------------|----------------------------|---------------------------------|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](Solutions/3.java)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](Solutions/652.java)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](Solutions/54.java)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](Solutions/498.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](Solutions/49.java)|Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](Solutions/1480.java)|Easy|
