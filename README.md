@@ -57,5 +57,6 @@
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Solution](Solutions/747.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](Solutions/66.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](Solutions/118.java)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](Solutions/67.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
