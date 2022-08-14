@@ -58,5 +58,7 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](Solutions/66.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](Solutions/118.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](Solutions/67.java)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](Solutions/28.java)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](Solutions/67.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
