@@ -61,6 +61,6 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](Solutions/28.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](Solutions/14.java)|Easy|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|[Solution](Solutions/561.java)|Easy|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](Solutions/14.java)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](Solutions/344.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
