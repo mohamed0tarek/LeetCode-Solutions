@@ -60,5 +60,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](Solutions/67.java)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](Solutions/28.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](Solutions/14.java)|Easy|
+|561|[Array Partition](https://leetcode.com/problems/array-partition/)|[Solution](Solutions/561.java)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](Solutions/14.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
