@@ -16,6 +16,7 @@
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](Solutions/167.java)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](Solutions/209.java)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](Solutions/54.java)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](Solutions/54.java)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](Solutions/498.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](Solutions/49.java)|Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](Solutions/1480.java)|Easy|
@@ -64,5 +65,6 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](Solutions/14.java)|Easy|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|[Solution](Solutions/561.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](Solutions/344.java)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](Solutions/119.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
