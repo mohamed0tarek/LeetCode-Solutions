@@ -15,6 +15,7 @@
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](Solutions/652.java)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](Solutions/167.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](Solutions/142.java)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](Solutions/19.java)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](Solutions/209.java)|Medium|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](Solutions/707.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](Solutions/151.java)|Medium|
@@ -71,6 +72,7 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](Solutions/119.java)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](Solutions/557.java)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](Solutions/160.java)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](Solutions/141.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](Solutions/141.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Solution](Solutions/1160.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
