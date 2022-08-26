@@ -72,7 +72,7 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](Solutions/119.java)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](Solutions/557.java)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](Solutions/160.java)|Easy|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](Solutions/141.java)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](Solutions/206.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](Solutions/141.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Solution](Solutions/1160.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
