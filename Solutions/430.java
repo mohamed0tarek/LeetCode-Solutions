@@ -1,21 +1,32 @@
 class Solution {
-    // Add Two Numbers (Java improved)
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode dummyHead = new ListNode(0);
-        ListNode curr = dummyHead;
-        int carry = 0;
-        while (l1 != null || l2 != null || carry != 0) {
-            int x = (l1 != null) ? l1.val : 0;
-            int y = (l2 != null) ? l2.val : 0;
-            int sum = carry + x + y;
-            carry = sum / 10;
-            curr.next = new ListNode(sum % 10);
-            curr = curr.next;
-            if (l1 != null)
-                l1 = l1.next;
-            if (l2 != null)
-                l2 = l2.next;
+    public Node flatten(Node head) {
+        dfs(head);
+        return head;
+    }
+    private Node dfs(Node node){
+        Node pre = null;
+        while(node != null){
+            pre = node;
+            if(node.child != null){
+                //Change the tail node
+                Node tail = dfs(node.child);
+                tail.next = node.next;
+                if(node.next != null){
+                    node.next.prev = tail;
+                }
+                
+                //Change the head node
+                node.next = node.child;
+                node.child.prev = node;
+                node.child = null;
+                
+                //Reset the pointers
+                node = tail.next;
+                pre = tail;
+            }else{
+                node = node.next;
+            }
         }
-        return dummyHead.next;
+        return pre;
     }
 }
