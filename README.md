@@ -14,6 +14,8 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](Solutions/3.java)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](Solutions/652.java)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](Solutions/167.java)|Medium|
+|430|[Flatten a Multilevel Doubly Linked List (DFS)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Solution](Solutions/430.java)|Medium|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](Solutions/167.java)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](Solutions/328.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](Solutions/142.java)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](Solutions/19.java)|Medium|
