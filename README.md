@@ -81,6 +81,7 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](Solutions/21.java)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](Solutions/191.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](Solutions/141.java)|Easy|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](Solutions/338.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Solution](Solutions/1160.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
