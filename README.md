@@ -92,6 +92,8 @@
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Solution](Solutions/922.java)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Solution](Solutions/709.java)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](Solutions/338.java)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](Solutions/100.java)|Easy|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](Solutions/338.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Solution](Solutions/1160.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
