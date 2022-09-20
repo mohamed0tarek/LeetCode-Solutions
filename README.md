@@ -94,6 +94,7 @@
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](Solutions/338.java)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](Solutions/100.java)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](Solutions/463.java)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Solution](Solutions/111.java)|Easy|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|[Solution](Solutions/1971.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Solution](Solutions/1160.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
