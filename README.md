@@ -28,6 +28,7 @@
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](Solutions/151.java)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](Solutions/189.java)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](Solutions/54.java)|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](Solutions/155.java)|Medium|
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](Solutions/622.java)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](Solutions/498.java)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](Solutions/61.java)|Medium|
