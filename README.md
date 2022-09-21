@@ -26,6 +26,7 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](Solutions/209.java)|Medium|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](Solutions/707.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](Solutions/151.java)|Medium|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](Solutions/739.java)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](Solutions/189.java)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](Solutions/54.java)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](Solutions/155.java)|Medium|
