@@ -11,6 +11,8 @@
 
 | Problem NO.  |      Title     |   Solutions   | Difficulty  |                  
 |---------------------------------------|------------------------------|----------------------------|---------------------------------|
+|1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Solution](Solutions/1028.java)|Hard|
+|1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[Solution](Solutions/1255.java)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](Solutions/3.java)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](Solutions/2.java)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](Solutions/652.java)|Medium|
