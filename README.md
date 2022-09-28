@@ -39,6 +39,7 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](Solutions/61.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](Solutions/494.java)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](Solutions/542.java)|Medium|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](Solutions/1302.java)|Medium|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](Solutions/841.java)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](Solutions/394.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](Solutions/49.java)|Medium|
