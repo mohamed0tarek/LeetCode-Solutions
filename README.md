@@ -106,6 +106,7 @@
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](Solutions/100.java)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](Solutions/463.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](Solutions/20.java)|Easy|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](Solutions/938.java)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](Solutions/94.java)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Solution](Solutions/111.java)|Easy|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|[Solution](Solutions/1971.java)|Easy|
