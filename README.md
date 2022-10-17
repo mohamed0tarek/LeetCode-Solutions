@@ -23,6 +23,7 @@
 |430|[Flatten a Multilevel Doubly Linked List (DFS)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Solution](Solutions/430.java)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](Solutions/328.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](Solutions/142.java)|Medium|
+|1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Solution](Solutions/1382.java)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](Solutions/19.java)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](Solutions/200.java)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](Solutions/209.java)|Medium|
