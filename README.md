@@ -20,6 +20,7 @@
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](Solutions/167.java)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](Solutions/752.java)|Medium|
 |2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[Solution](Solutions/2181.java)|Medium|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](Solutions/1305.java)|Medium|
 |430|[Flatten a Multilevel Doubly Linked List (DFS)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Solution](Solutions/430.java)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](Solutions/328.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](Solutions/142.java)|Medium|
