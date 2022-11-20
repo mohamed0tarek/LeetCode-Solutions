@@ -118,7 +118,8 @@
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|[Solution](Solutions/1971.java)|Easy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Solution](Solutions/2331.java)|Easy|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Solution](Solutions/1022.java)|Easy|
+|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)|[Solution](Solutions/1920.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Solution](Solutions/1160.java)|Easy|
-|1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Solution](Solutions/1379.java)|Easy|
+|1379|[Find a Corresponding Node in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Solution](Solutions/1379.java)|Easy|
 |-----------|--------------------------------------------------|-----------|----------|
 
