@@ -84,6 +84,7 @@
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Solution](Solutions/1299.java)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](Solutions/283.java)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](Solutions/905.java)|Easy|
+|1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)|[Solution](Solutions/1929.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Solution](Solutions/1051.java)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](Solutions/414.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](Solutions/724.java)|Easy|
