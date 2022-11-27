@@ -69,6 +69,7 @@
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](Solutions/706.java)|Easy|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](Solutions/705.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](Solutions/205.java)|Easy|
+|2011|[Final Value After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Solution](Solutions/2011.java)|Easy|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Solution](Solutions/599.java)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](Solutions/387.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](Solutions/350.java)|Easy|
