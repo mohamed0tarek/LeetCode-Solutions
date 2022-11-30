@@ -30,6 +30,7 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](Solutions/200.java)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](Solutions/209.java)|Medium|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](Solutions/707.java)|Medium|
+|1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](Solutions/1476.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](Solutions/151.java)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](Solutions/739.java)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](Solutions/189.java)|Medium|
