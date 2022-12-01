@@ -37,6 +37,7 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](Solutions/54.java)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](Solutions/133.java)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](Solutions/155.java)|Medium|
+|1828|[Queries on Number of Points In a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](Solutions/1828.java)|Medium|
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Solution](Solutions/1325.java)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](Solutions/150.java)|Medium|
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](Solutions/622.java)|Medium|
