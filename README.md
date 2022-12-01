@@ -44,12 +44,13 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](Solutions/61.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](Solutions/494.java)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](Solutions/542.java)|Medium|
+|2396|[Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)|[Solution](Solutions/2396.java)|Medium|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](Solutions/797.java)|Medium|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](Solutions/1302.java)|Medium|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](Solutions/841.java)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](Solutions/394.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](Solutions/49.java)|Medium|
-|1689|[Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)|[Solution](Solutions/1689.java)|Medium|
+|1689|[Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution](Solutions/1689.java)|Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](Solutions/1480.java)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](Solutions/1672.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](Solutions/412.java)|Easy|
@@ -58,7 +59,7 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](Solutions/383.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](Solutions/13.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](Solutions/104.java)|Easy|
-|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)|[Solution](Solutions/1108.java)|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Solution](Solutions/1108.java)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](Solutions/112.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](Solutions/448.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](Solutions/26.java)|Easy|
