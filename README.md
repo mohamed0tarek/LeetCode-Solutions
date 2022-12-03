@@ -45,6 +45,7 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](Solutions/61.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](Solutions/494.java)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](Solutions/542.java)|Medium|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](Solutions/807.java)|Medium|
 |2396|[Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)|[Solution](Solutions/2396.java)|Medium|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](Solutions/797.java)|Medium|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](Solutions/1302.java)|Medium|
