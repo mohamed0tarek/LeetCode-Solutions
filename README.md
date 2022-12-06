@@ -26,6 +26,7 @@
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](Solutions/328.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](Solutions/142.java)|Medium|
 |2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|[Solution](Solutions/2265.java)|Medium|
+|1282|[Group the People Given Group Size](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](Solutions/1282.java)|Medium|
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Solution](Solutions/1382.java)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](Solutions/19.java)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](Solutions/200.java)|Medium|
