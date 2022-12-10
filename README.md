@@ -57,6 +57,7 @@
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](Solutions/394.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](Solutions/49.java)|Medium|
 |1689|[Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution](Solutions/1689.java)|Medium|
+|1769|[Minimum Number of Operations to Move Balls](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](Solutions/1769.java)|Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](Solutions/1480.java)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](Solutions/1672.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](Solutions/412.java)|Easy|
