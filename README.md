@@ -61,6 +61,7 @@
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](Solutions/841.java)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](Solutions/394.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](Solutions/49.java)|Medium|
+|1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](Solutions/1551.java)|Medium|
 |2120|[Execution of All Suffix Instructions in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|[Solution](Solutions/2120.java)|Medium|
 |1689|[Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution](Solutions/1689.java)|Medium|
 |1769|[Minimum Number of Operations to Move Balls](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](Solutions/1769.java)|Medium|
