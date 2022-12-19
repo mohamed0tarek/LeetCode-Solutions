@@ -54,6 +54,7 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](Solutions/61.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](Solutions/494.java)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](Solutions/542.java)|Medium|
+|1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](Solutions/1877.java)|Medium|
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](Solutions/2125.java)|Medium|
 |2433|[Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)|[Solution](Solutions/2433.java)|Medium|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](Solutions/807.java)|Medium|
