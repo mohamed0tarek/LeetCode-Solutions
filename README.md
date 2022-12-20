@@ -15,6 +15,7 @@
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[Solution](Solutions/1255.java)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](Solutions/3.java)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](Solutions/2.java)|Medium|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](Solutions/763.java)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](Solutions/652.java)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](Solutions/237.java)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Solution](Solutions/654.java)|Medium|
