@@ -98,6 +98,7 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](Solutions/771.java)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](Solutions/485.java)|Easy|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)|[Solution](Solutions/2469.java)|Easy|
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Solution](Solutions/1021.java)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](Solutions/1295.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](Solutions/977.java)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](Solutions/1089.java)|Easy|
