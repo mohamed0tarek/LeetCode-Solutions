@@ -22,7 +22,9 @@
 |1637|[Widest Vertical Area](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Solution](Solutions/1637.java)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](Solutions/167.java)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](Solutions/752.java)|Medium|
+|1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](Solutions/1630.java)|Medium|
 |2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[Solution](Solutions/2181.java)|Medium|
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](Solutions/535.java)|Medium|
 |2415|[Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)|[Solution](Solutions/2415.java)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](Solutions/1305.java)|Medium|
 |430|[Flatten a Multilevel Doubly Linked List (DFS)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Solution](Solutions/430.java)|Medium|
@@ -67,6 +69,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](Solutions/49.java)|Medium|
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](Solutions/1551.java)|Medium|
 |2482|[Difference Between Ones and Zeros](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[Solution](Solutions/2482.java)|Medium|
+|2391|[Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)|[Solution](Solutions/2391.java)|Medium|
 |2120|[Execution of All Suffix Instructions in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|[Solution](Solutions/2120.java)|Medium|
 |1689|[Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution](Solutions/1689.java)|Medium|
 |1769|[Minimum Number of Operations to Move Balls](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](Solutions/1769.java)|Medium|
