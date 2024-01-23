@@ -45,6 +45,7 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](Solutions/54.java)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](Solutions/133.java)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](Solutions/155.java)|Medium|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](Solutions/779.java)|Medium|
 |1817|[Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[Solution](Solutions/1817.java)|Medium|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](Solutions/2149.java)|Medium|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](Solutions/2130.java)|Medium|
