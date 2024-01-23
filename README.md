@@ -78,6 +78,7 @@
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Solution](Solutions/2236.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](Solutions/412.java)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](Solutions/1342.java)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](Solutions/70.java)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](Solutions/876.java)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](Solutions/383.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](Solutions/13.java)|Easy|
