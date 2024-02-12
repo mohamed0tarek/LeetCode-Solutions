@@ -19,3 +19,30 @@ class Solution {
         return stack.pop();
     }
 }
+
+--------------------------------------------------------------------------------------------------------------------
+
+class Solution {
+    public int evalRPN(String[] tokens) {
+        Deque<String> stack = new ArrayDeque<>();
+        Set<String> operators = Set.of("+", "-", "/", "*");
+        int x,y,z;
+        for (String token : tokens){
+            if (!operators.contains(token))
+                stack.push(token);
+            else {
+                x = Integer.parseInt(stack.pop());
+                y = Integer.parseInt(stack.pop());
+                z = switch (token) {
+                    case "+" -> y + x;
+                    case "-" -> y - x;
+                    case "*" -> y * x;
+                    case "/" -> y / x;
+                    default -> 0;
+                };
+                stack.push(String.valueOf(z));
+            }
+        }
+        return Integer.parseInt(stack.pop());
+    }
+}
